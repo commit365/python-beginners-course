@@ -123,3 +123,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you learned about functions and modules in Python, including how to define and call functions, use parameters and return values, and import modules. You practiced writing reusable code and built a simple calculator project to apply your skills. You are now ready to move on to the next module, where you will explore data structures in Python. 
+
+Next: [5. Data Structures](./module5_data_structures.md)

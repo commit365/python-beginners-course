@@ -153,3 +153,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you learned about various data structures in Python, including lists, tuples, sets, and dictionaries. You practiced using these structures through hands-on exercises and completed a quiz to reinforce your understanding. You are now ready to move on to the next module, where you will explore file handling in Python. 
+
+Next: [6. File Handling](./module6_file_handling.md)

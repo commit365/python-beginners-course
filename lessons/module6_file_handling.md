@@ -140,3 +140,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you learned about file handling in Python, including how to read from and write to files, manage file modes, and handle exceptions. You practiced file operations through hands-on exercises and created a text-based contact book project to apply your skills. You are now ready to move on to the next module, where you will explore libraries in Python. Happy coding!
+
+Next: [7. Libraries](./module7_libraries.md)

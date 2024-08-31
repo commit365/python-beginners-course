@@ -95,3 +95,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you have learned about the Python programming language, set up your development environment, and executed your first Python program. You are now ready to move on to the next module, where you will explore basic syntax and data types in Python.
+
+Next: [2. Syntax](./module2_syntax.md)

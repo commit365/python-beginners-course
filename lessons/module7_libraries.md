@@ -114,3 +114,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you learned about the importance of libraries in Python and how to install and import them using `pip`. You explored NumPy and Pandas, performing basic data manipulation and analysis. Through hands-on exercises and a mini-project, you gained practical experience using these powerful libraries. You are now ready to move on to the next module, where you will explore capstone projects in Python.
+
+Next: [8. Capstone Project](./module8_capstone_project.md)

@@ -122,3 +122,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you have learned about Python syntax, data types, and basic operations. You practiced writing scripts that manipulate different data types and performed various operations. You are now ready to move on to the next module, where you will explore control flow in Python.
+
+Next: [3. Control Flow](./module3_control_flow.md)

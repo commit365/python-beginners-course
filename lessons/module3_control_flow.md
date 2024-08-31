@@ -114,3 +114,5 @@ By the end of this module, learners will be able to:
 ## Conclusion
 
 In this module, you learned about control flow in Python, including conditional statements and loops. You practiced implementing decision-making and iterating over data. You also created a mini-project, a number guessing game, to apply your skills in a fun and interactive way. You are now ready to move on to the next module, where you will explore functions and modules in Python. 
+
+Next: [4. Functions](./module4_functions.md)
