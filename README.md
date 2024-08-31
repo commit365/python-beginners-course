@@ -56,5 +56,3 @@ We welcome contributions! If you have suggestions or improvements, feel free to 
 ## License
 
 This course is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-Happy coding!
